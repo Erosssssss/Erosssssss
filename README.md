@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Erosssssss
+- 👀 I’m interested in Bukkit API
+- 🌱 I’m currently learning Java
+- 📫 You can contact me on Twiterr: @erosc_
